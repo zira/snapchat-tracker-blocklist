@@ -1,0 +1,14 @@
+# [snapads.com]
+0.0.0.0 snapads.com
+0.0.0.0 adserver.snapads.com
+0.0.0.0 usc.adserver.snapads.com
+0.0.0.0 adserver.shadow.snapads.com
+0.0.0.0 study.snapads.com
+
+# [snapchat.com]
+0.0.0.0 ads.snapchat.com
+0.0.0.0 adsapi.snapchat.com
+0.0.0.0 tr.snapchat.com
+0.0.0.0 tr6.snapchat.com
+0.0.0.0 app-analytics-v2.snapchat.com
+0.0.0.0 app-analytics.snapchat.com
